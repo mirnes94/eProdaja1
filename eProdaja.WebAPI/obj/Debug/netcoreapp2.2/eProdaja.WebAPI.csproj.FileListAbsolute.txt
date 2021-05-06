@@ -1,0 +1,6 @@
+C:\Users\win10\source\repos\eProdaja\eProdaja.WebAPI\obj\Debug\netcoreapp2.2\eProdaja.WebAPI.csprojAssemblyReference.cache
+C:\Users\win10\source\repos\eProdaja\eProdaja.WebAPI\obj\Debug\netcoreapp2.2\eProdaja.WebAPI.AssemblyInfoInputs.cache
+C:\Users\win10\source\repos\eProdaja\eProdaja.WebAPI\obj\Debug\netcoreapp2.2\eProdaja.WebAPI.AssemblyInfo.cs
+C:\Users\win10\source\repos\eProdaja\eProdaja.WebAPI\obj\Debug\netcoreapp2.2\eProdaja.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\eProdaja\eProdaja.WebAPI\obj\Debug\netcoreapp2.2\eProdaja.WebAPI.RazorAssemblyInfo.cache
+C:\Users\win10\source\repos\eProdaja\eProdaja.WebAPI\obj\Debug\netcoreapp2.2\eProdaja.WebAPI.RazorAssemblyInfo.cs

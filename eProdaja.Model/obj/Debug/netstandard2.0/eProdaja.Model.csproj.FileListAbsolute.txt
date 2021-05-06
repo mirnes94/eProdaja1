@@ -1,0 +1,9 @@
+C:\Users\win10\source\repos\eProdaja\eProdaja.Model\bin\Debug\netstandard2.0\eProdaja.Model.deps.json
+C:\Users\win10\source\repos\eProdaja\eProdaja.Model\bin\Debug\netstandard2.0\eProdaja.Model.dll
+C:\Users\win10\source\repos\eProdaja\eProdaja.Model\bin\Debug\netstandard2.0\eProdaja.Model.pdb
+C:\Users\win10\source\repos\eProdaja\eProdaja.Model\obj\Debug\netstandard2.0\eProdaja.Model.AssemblyInfoInputs.cache
+C:\Users\win10\source\repos\eProdaja\eProdaja.Model\obj\Debug\netstandard2.0\eProdaja.Model.AssemblyInfo.cs
+C:\Users\win10\source\repos\eProdaja\eProdaja.Model\obj\Debug\netstandard2.0\eProdaja.Model.dll
+C:\Users\win10\source\repos\eProdaja\eProdaja.Model\obj\Debug\netstandard2.0\eProdaja.Model.pdb
+C:\Users\win10\source\repos\eProdaja\eProdaja.Model\obj\Debug\netstandard2.0\eProdaja.Model.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\eProdaja\eProdaja.Model\obj\Debug\netstandard2.0\eProdaja.Model.csprojAssemblyReference.cache

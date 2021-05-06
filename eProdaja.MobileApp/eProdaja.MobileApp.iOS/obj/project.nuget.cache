@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "uD70gV+EFIBkGGjV0mlPramr02jCTGjGG8PYi6PD9kLgni53AXIqAPMVVIdzSUN+vPucdPEeE3D40lPR4wmXYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\win10\\source\\repos\\eProdaja\\eProdaja.MobileApp\\eProdaja.MobileApp.iOS\\eProdaja.MobileApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\win10\\.nuget\\packages\\flurl\\3.0.1\\flurl.3.0.1.nupkg.sha512",
+    "C:\\Users\\win10\\.nuget\\packages\\flurl.http\\2.4.1\\flurl.http.2.4.1.nupkg.sha512",
+    "C:\\Users\\win10\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\win10\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "C:\\Users\\win10\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

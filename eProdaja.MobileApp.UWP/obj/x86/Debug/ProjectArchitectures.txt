@@ -1,0 +1,1 @@
+C:\Users\win10\source\repos\eProdaja\eProdaja.MobileApp.UWP\eProdaja.MobileApp.UWP.csproj;x86
